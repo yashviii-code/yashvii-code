@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Yashvi Bhavsar</h1>
+<h3 align="center">AI & Machine Learning Engineer | Data Analyst | Full Stack Developer</h3>
+
+<p align="center">
+Passionate about building intelligent applications using Artificial Intelligence, Machine Learning, Data Analytics, and Full Stack Development.
+I enjoy transforming real-world problems into scalable software solutions while continuously learning new technologies and contributing to open-source projects.
+</p>
+
+<p align="center">
+🌱 Currently learning <b>Generative AI • Agentic AI • LLMs • MLOps</b><br>
+💻 Building AI-powered applications and Data Analytics projects<br>
+📊 Interested in Machine Learning, Deep Learning, NLP & Data Engineering<br>
+🚀 Open to AI/ML, Data Analyst and Software Development opportunities
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashviii._.007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yashvi Bhavsar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashvi.bhavsar07@gmail.com) 
